@@ -8,6 +8,6 @@ Welcome to the COVIDScenarioPipeline wiki!
 * The current COVID19\_USA branch is:&#x20;
 {% endhint %}
 
-### General pipeline description
+### General Pipeline Description
 
 <img src=".gitbook/assets/pipeline-overview.png" alt="" data-size="original">
