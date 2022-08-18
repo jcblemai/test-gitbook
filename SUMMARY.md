@@ -1,29 +1,27 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Home](README.md)
+* [Model Description](model-description.md)
+* [Module specification](module-specification.md)
+* [Model Inference](model-inference.md)
+* [Inference model configuration setup](inference-model-configuration-setup.md)
+* [Intervention Templates](intervention-templates.md)
+* [Outcomes module](outcomes-module.md)
+* [Advanced](advanced.md)
+* [\_Sidebar](\_sidebar.md)
+* [Outcomes for compartments](outcomes-for-compartments.md)
+* [Inference Test](inference-test.md)
 
-## Guides
+## 🛠 How-To
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [How to Run](how-to/how-to-run.md)
+* [Tutorials](how-to/tutorials.md)
+* [AWS Instructions](how-to/aws-instructions.md)
 
-## Fundamentals
+***
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Acknowledgements](acknowledgements.md)
 
-## Use Cases
+## 🗜 Development
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Python-guideline](development/python-guideline.md)
